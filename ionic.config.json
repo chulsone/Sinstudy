@@ -1,0 +1,7 @@
+{
+  "name": "SinStudy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
